@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanat-2003
-- 👀 I’m interested in C++, Python, C, DSA, OpenCV
-- 🌱 I’m currently learning C++, OpenCV
+- 👀 I’m interested in C++, Python, C, DSA, Flutter, Dart
+- 🌱 I’m currently learning Flutter, Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amanatsinghnain@gmail.com
 
