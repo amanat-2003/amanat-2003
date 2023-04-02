@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanat-2003
+- 👋 Hi, I’m Amanat Singh
 - 👀 I’m interested in C++, Python, C, DSA, Flutter, Dart
 - 🌱 I’m currently learning Flutter, Dart
 - 💞️ I’m looking to collaborate on ...
