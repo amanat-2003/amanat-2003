@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Amanat Singh
-- 👀 I’m interested in C++, Python, C, DSA, Flutter, Dart
-- 🌱 I’m currently learning Flutter, Dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me amanatsinghnain@gmail.com
+# Hi, I'm Amanat Singh! 👋
 
-<!---
-amanat-2003/amanat-2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Rivaan's github stats](https://github-readme-stats.vercel.app/api?username=amanat-2003&show_icons=true&theme=react)
+## 🚀 About Me
+I'm an 20 year old coding enthusiast with some knowledge in App Development!
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanat-coder/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amanatsinghnain/)
+
+
+## 🛠 Skills
+Flutter, Dart, Javascript, HTML, CSS, Firebase, Node, MongoDB
