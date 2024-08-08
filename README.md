@@ -1,15 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 # Hi, I'm Amanat Singh! 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanat-2003&show_icons=true&theme=react" alt="Amanat's GitHub activity graph"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanat-2003&&theme=tokyonight" alt="Amanat's GitHub streak stats"/>
-</p>
-
-
-
-
 ## 🚀 About Me
 A 21 year old coding enthusiast with some knowledge in App Development!
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
@@ -28,4 +19,9 @@ A 21 year old coding enthusiast with some knowledge in App Development!
 ## 🛠 Skills
 Flutter, Dart, Git, GitHub, Firebase, Riverpod, Provider, RestAPI, C/C++, Python, Postman
 
-
+## 📈 My Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanat-2003&show_icons=true&theme=react" alt="Amanat's GitHub activity graph"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanat-2003&&theme=tokyonight" alt="Amanat's GitHub streak stats"/>
+</p>
