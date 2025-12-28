@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
-A 21 year old coding enthusiast with some knowledge in App Development!
+A 22 year old coding enthusiast with some knowledge in App Development!
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 - 💬 Ask me about **Flutter, Dart, Firebase**
